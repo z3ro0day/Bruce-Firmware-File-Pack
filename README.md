@@ -25,5 +25,4 @@ For their original files and contributions.
 ⁶
 ## MXR Address: 88fGveAuw7DdMumere62oMhXGWqt56NMq9GfMStB9eP8fWcXFKVNPXuiQTHJdtRTqvExLhX5Xqw14MJM4pQmD1x2SApNp3g
 
-## lite coin 
-ltc1q82j2tk2q050a9yh0x9k8r3gjylj7dqcypk4mx6
+
